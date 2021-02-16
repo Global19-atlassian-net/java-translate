@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.95.8](https://www.github.com/googleapis/java-translate/compare/v1.95.7...v1.95.8) (2021-02-16)
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-core to v1.94.1 ([#409](https://www.github.com/googleapis/java-translate/issues/409)) ([8a40a6e](https://www.github.com/googleapis/java-translate/commit/8a40a6ec80b3a23d10f9fbac620e7e3454c934af))
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#413](https://www.github.com/googleapis/java-translate/issues/413)) ([8c42215](https://www.github.com/googleapis/java-translate/commit/8c422152567b5b974d5824fe6cefaec64fcbce24))
+
 ### [1.95.7](https://www.github.com/googleapis/java-translate/compare/v1.95.6...v1.95.7) (2021-01-25)
 
 
